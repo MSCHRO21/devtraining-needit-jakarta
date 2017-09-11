@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="8a28f9790f1003001f770cbce1050e5b" sys_domain="global" table="x_58872_needit_importer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 07:43:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e2831f90f1003001f770cbce1050e3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_importer" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">8a28f9790f1003001f770cbce1050e5b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">0e2831f90f1003001f770cbce1050e39</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:43:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 07:43:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>822831f90f1003001f770cbce1050e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_importer" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">8a28f9790f1003001f770cbce1050e5b</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">0628f9790f1003001f770cbce1050e5e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:43:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 07:43:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c22831f90f1003001f770cbce1050e3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_importer" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">8a28f9790f1003001f770cbce1050e5b</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="x_58872_needit_importer" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">022831f90f1003001f770cbce1050e3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:43:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_importer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-01 07:43:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a28f9790f1003001f770cbce1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_importer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8a28f9790f1003001f770cbce1050e5b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-01 07:43:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vendor" name="vendor">c12b7492d7010100fceaa6859e6103e6</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
